@@ -14,10 +14,9 @@ Go to the [Releases](https://github.com/eselejuanito/zaplister-releases/releases
 
 | Platform | File |
 |----------|------|
-| Windows | `ZapLister-x.x.x-Windows.exe` |
-| macOS (Apple Silicon) | `ZapLister-x.x.x-Mac-arm64.dmg` |
-| macOS (Intel) | `ZapLister-x.x.x-Mac-x64.dmg` |
-| Linux | `ZapLister-x.x.x-Linux.AppImage` |
+| Windows | `ZapLister-Windows.exe` |
+| macOS (Intel & Apple Silicon) | `ZapLister-Mac.dmg` |
+| Linux | `ZapLister-Linux.AppImage` |
 
 ---
 
